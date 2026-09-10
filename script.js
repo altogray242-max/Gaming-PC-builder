@@ -1,4 +1,4 @@
-```javascript
+
 // PC Builder JavaScript Project
 
 // ==========================================
@@ -76,4 +76,4 @@ console.log("Graphics Card:", pcBuild.graphicsCard);
 console.log("RAM:", pcBuild.ram);
 console.log("Storage:", pcBuild.storage);
 console.log("Final Price: $" + pcBuild.price);
-```
+
